@@ -1,0 +1,35 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  .app-container {
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #2c3e50;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav a {
+    color: #ecf0f1;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  nav a:hover, .active-link {
+    color: #1abc9c;
+  }
+  
+  .content {
+    margin: 20px;
+  }
+  
