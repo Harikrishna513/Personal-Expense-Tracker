@@ -138,7 +138,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Spring Boot](https://spring.io/projects/spring-boot) for the backend framework.
 - [Angular](https://angular.io/) for the frontend framework.
 - [MySQL](https://www.mysql.com/) for the database.
-- [Firebase](https://firebase.google.com/) for authentication (if applicable).
 
 ## Contact
 
