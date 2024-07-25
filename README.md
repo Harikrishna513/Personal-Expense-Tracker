@@ -17,7 +17,6 @@ The Personal Expense Tracker is a web application designed to help users manage 
 - **Backend:** Spring Boot
 - **Database:** MySQL
 - **Frontend:** Angular
-- **Authentication:** Firebase (for authentication in the project)
 
 ## Prerequisites
 
